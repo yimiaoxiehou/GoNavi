@@ -12,5 +12,6 @@
     "email": "user@example.com"
   },
   "debounceMS": 100,
-  "appargs": ""
+  "appargs": "",
+  "webview2": "embed"  // 关键配置：embed / download / browser
 }
