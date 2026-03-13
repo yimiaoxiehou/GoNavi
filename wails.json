@@ -13,5 +13,5 @@
   },
   "debounceMS": 100,
   "appargs": "",
-  "webview2": "embed"  // 关键配置：embed / download / browser
+  "webview2": "embed"
 }
